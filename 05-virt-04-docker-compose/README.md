@@ -46,7 +46,7 @@
 
 ![image](https://user-images.githubusercontent.com/93542374/223727249-8cd47635-b723-4249-a2a2-ae90441b266a.png)
 
-```
+```terraform
  terraform apply      
 yandex_vpc_network.default: Refreshing state... [id=enp67jtmktccu8h2np94]
 yandex_vpc_subnet.default: Refreshing state... [id=e9bbath1c4qufb44374l]
@@ -67,7 +67,7 @@ Terraform will perform the following actions:
       + id                        = (known after apply)
       + metadata                  = {
           + "ssh-keys" = <<-EOT
-                ubuntu:ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCo5JF/71x3Z6jtm9ABLW0lrzqNmXvirYv6MROgZUtarosZdpmGT9gwlH/NfemzPKIvY2FmCehQtuGWqDpJJPSDxzfMbkB27spR5y8Dx8QvFa7cavN/Sy1t26d0iwBR5gBhQj87UZMZhmNOIodyQkiKCZXYzhu9HWmtP7zoHWeLuTmxUW4jdXIJPT1rsOhLA54T7I/6VQbbJB+MiNW/+5Q8v+xnfKlsmpzf3TSc/FvnXCT0YXjtbEs18JStrefTucpmfVzOaeIra82T2BR4WNbfnq35VaejO8+d8XeboUPDaP5T7u+yLPikR6NULSjgAKsP4tmkQWGSnp31e9E0hoV0Z5fNdIGsFkhiMDQUgVd/+VQa0Wk9EnLvO5wllFrb1FykSChiwzkZzPYWfuozqtjaPR+gV7mVr5xxek1zqadG3AQH+r8MvfXs5vtSk9+v7DDTYVpV49UBY+oIkMkDCx+6Sky2RBz/gd+qOdiGta/5DmQTe2GFcJj7uSgQ0WDwdVk= nlo_tomsk@mail.ru
+                ubuntu:ssh-rsa AAA= nlo_tomsk@mail.ru
             EOT
         }
       + name                      = "node01"
