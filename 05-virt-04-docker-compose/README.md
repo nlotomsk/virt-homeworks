@@ -184,13 +184,15 @@ internal_ip_address_node01_yandex_cloud = "192.168.101.19"
   <img width="1200" height="600" src="./assets/yc_02.png">
 </p>
 
-![image](https://user-images.githubusercontent.com/93542374/223804747-029c6f67-ecfb-4443-848d-2af17b6d3549.png)
+![image](https://user-images.githubusercontent.com/93542374/223941029-77ad0add-8dfc-4035-91f5-8672b87fc4ad.png)
 
-![image](https://user-images.githubusercontent.com/93542374/223805043-ca88b841-bcad-4f4a-ab34-32f5ceccda4a.png)
+![image](https://user-images.githubusercontent.com/93542374/223941102-cdc0da52-8231-4d3c-b22a-e047d1ec5cce.png)
 
-![image](https://user-images.githubusercontent.com/93542374/223805139-fbc26221-7c68-4ce7-9c74-71a17bd7a186.png)
+![image](https://user-images.githubusercontent.com/93542374/223941204-eee2ee9a-b12f-440c-8683-3eeba6753730.png)
 
-
+```
+Работа полностью проделана без графических редакторов. 
+```
 
 ## Задача 5 (*)
 
