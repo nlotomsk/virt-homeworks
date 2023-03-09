@@ -30,6 +30,9 @@
 
 ![image](https://user-images.githubusercontent.com/93542374/223722286-f21cc517-d4fb-428f-8aeb-5bd0fc98b230.png)
 
+![image](https://user-images.githubusercontent.com/93542374/223942014-836ecc52-127f-4bdc-8c51-2da233c6e176.png)
+
+
 ## Задача 2
 
 **2.1.** Создайте вашу первую виртуальную машину в YandexCloud с помощью web-интерфейса YandexCloud. 
