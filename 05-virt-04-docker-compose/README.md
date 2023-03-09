@@ -34,7 +34,7 @@
 
 **2.1.** Создайте вашу первую виртуальную машину в YandexCloud с помощью web-интерфейса YandexCloud. 
 
-![image](https://user-images.githubusercontent.com/93542374/223724067-4c8f458c-6047-4a9c-be74-6baa8a9c9a77.png)
+![image](https://user-images.githubusercontent.com/93542374/223940758-873b27b6-5a13-432d-9205-9bb6c0c31a4e.png)
 
 **2.2.*** **(Необязательное задание)**      
 Создайте вашу первую виртуальную машину в YandexCloud с помощью Terraform (вместо использования веб-интерфейса YandexCloud).
