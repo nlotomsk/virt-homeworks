@@ -30,14 +30,14 @@
 
 ![image](https://user-images.githubusercontent.com/93542374/223722286-f21cc517-d4fb-428f-8aeb-5bd0fc98b230.png)
 
-![image](https://user-images.githubusercontent.com/93542374/223942014-836ecc52-127f-4bdc-8c51-2da233c6e176.png)
-
 
 ## Задача 2
 
 **2.1.** Создайте вашу первую виртуальную машину в YandexCloud с помощью web-интерфейса YandexCloud. 
 
 ![image](https://user-images.githubusercontent.com/93542374/223940758-873b27b6-5a13-432d-9205-9bb6c0c31a4e.png)
+
+![image](https://user-images.githubusercontent.com/93542374/223942138-cfe47dfb-8f03-4f88-b192-c8eae5439903.png)
 
 **2.2.*** **(Необязательное задание)**      
 Создайте вашу первую виртуальную машину в YandexCloud с помощью Terraform (вместо использования веб-интерфейса YandexCloud).
